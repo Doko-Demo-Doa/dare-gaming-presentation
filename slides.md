@@ -75,17 +75,17 @@ Two types of video game consoles
 
 Game console generations:
 
-- *First (1972 - 1980)*: Magnavox, Pong
-- *Second (1976 - 1992)*: Atari 2600, Mattel Intellivision
-- *Third (1983 - 2003)*: Sega Master System, Atari 7800, Nintendo Entertainment System (NES)
-- *Fourth (1987 - 2004)*: Sga Genesis, SNK Neo Geo, Super Nintendo Entertainment System (SNES)
-- *Fifth (1993 - 2006)*: Sega Saturn, PlayStation 1 (PSX), Nintendo 64
-- *Sixth (1998 - 2013)*: Sega Dreamcast, PlayStation 2, Nintendo GameCube, Microsoft Xbox
-- *Seventh (2005 - 2017)*: Microsoft Xbox 360, PlayStation 3, Nintendo Wii
-- *Eighth (2012 - present)*: Nintendo WiiU, PlayStation 4, Xbox One, Nintendo Switch
-- *Ninth (2020 - present)*: Xbox Series X/S, PlayStation 5
+- _First (1972 - 1980)_: Magnavox, Pong
+- _Second (1976 - 1992)_: Atari 2600, Mattel Intellivision
+- _Third (1983 - 2003)_: Sega Master System, Atari 7800, Nintendo Entertainment System (NES)
+- _Fourth (1987 - 2004)_: Sga Genesis, SNK Neo Geo, Super Nintendo Entertainment System (SNES)
+- _Fifth (1993 - 2006)_: Sega Saturn, PlayStation 1 (PSX), Nintendo 64
+- _Sixth (1998 - 2013)_: Sega Dreamcast, PlayStation 2, Nintendo GameCube, Microsoft Xbox
+- _Seventh (2005 - 2017)_: Microsoft Xbox 360, PlayStation 3, Nintendo Wii
+- _Eighth (2012 - present)_: Nintendo WiiU, PlayStation 4, Xbox One, Nintendo Switch
+- _Ninth (2020 - present)_: Xbox Series X/S, PlayStation 5
 
-*=> There are intersections between generations.*
+_=> There are intersections between generations._
 
 ---
 
@@ -115,24 +115,6 @@ PC gaming is not owned by anyone or any company. Major platforms:
 # Mobile gaming
 
 TBD
-
-```
-
-<arrow v-click="3" x1="400" y1="420" x2="230" y2="330" color="#564" width="3" arrowSize="1" />
-
-[^1]: [Learn More](https://sli.dev/guide/syntax.html#line-highlighting)
-
-<style>
-.footnotes-sep {
-  @apply mt-20 opacity-10;
-}
-.footnotes {
-  @apply text-sm opacity-75;
-}
-.footnote-backref {
-  display: none;
-}
-</style>
 
 ---
 
