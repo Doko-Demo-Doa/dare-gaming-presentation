@@ -91,27 +91,31 @@ Game console generations:
 
 # PC gaming
 
-- Usually cheaper, but requires hardware
+PC gaming is:
+
+- Usually cheaper, more versatile
+- Fragmented between publishers, platforms and operating systems.
+- Mostly on Windows
 
 ---
 
-# Code
+# PC gaming (2)
 
-Use code snippets and get the highlighting directly![^1]
+PC gaming is not owned by anyone or any company. Major platforms:
 
-```ts {all|2|1-6|9|all}
-interface User {
-  id: number;
-  firstName: string;
-  lastName: string;
-  role: string;
-}
+- Steam (Valve)
+- Origin (EA)
+- PC Game Pass (Microsoft)
+- UPlay (Ubisoft)
+- Battle.net (Blizzard)
+- Epic Store (Epic Games)
 
-function updateUser(id: number, update: User) {
-  const user = getUser(id);
-  const newUser = { ...user, ...update };
-  saveUser(id, newUser);
-}
+---
+
+# Mobile gaming
+
+TBD
+
 ```
 
 <arrow v-click="3" x1="400" y1="420" x2="230" y2="330" color="#564" width="3" arrowSize="1" />
